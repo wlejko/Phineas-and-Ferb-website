@@ -128,7 +128,7 @@ export default function Profile() {
           <h1 style={{ marginBottom: "16px" }}>Personal:</h1>
           <div className={classes.oneRow}>
             <p>Full name </p>
-            <p>Wojtek Lejko</p>
+            <p>Wojciech Lejko</p>
           </div>
           <div className={classes.oneRow}>
             <p>Email</p>
